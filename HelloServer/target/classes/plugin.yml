@@ -1,0 +1,4 @@
+name: HelloServer
+version: '1.0-SNAPSHOT'
+main: me.allan.plugin.HelloServer
+api-version: '1.20'

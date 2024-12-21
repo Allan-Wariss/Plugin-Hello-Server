@@ -1,0 +1,4 @@
+name: HelloServer
+version: '${project.version}'
+main: me.allan.plugin.HelloServer
+api-version: '1.20'
