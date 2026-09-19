@@ -42,7 +42,7 @@ public class HelloServer extends JavaPlugin implements Listener {
         else if (playerName.equalsIgnoreCase("William_Tiago")) {
             Bukkit.broadcastMessage(ChatColor.GREEN + "Bem-Vindo" + ChatColor.YELLOW + ", de volta " + ChatColor.RED + "OLAVO DE CARALHO" + ChatColor.YELLOW + "!");}
         else if (playerName.equalsIgnoreCase("josuepombao")) {
-            Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "BIXA" + ChatColor.RED + " DETECTADA! " + ChatColor.WHITE + "É A " + ChatColor.YELLOW + "Josi" + ChatColor.WHITE "hahahahah" +);}
+            Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "BIXA" + ChatColor.RED + " DETECTADA! " + ChatColor.WHITE + "É A " + ChatColor.YELLOW + "Josi" + ChatColor.WHITE + "hahahahah");}
         else if (playerName.equalsIgnoreCase("GustavoRussas")) {
             Bukkit.broadcastMessage(ChatColor.GREEN + "Bem-Vindo" + ChatColor.YELLOW + ", de volta " + ChatColor.GREEN + "GUGUZINHO HAHAHA" + ChatColor.YELLOW + "!");}
         else {
