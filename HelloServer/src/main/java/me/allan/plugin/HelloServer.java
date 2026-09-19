@@ -45,6 +45,8 @@ public class HelloServer extends JavaPlugin implements Listener {
             Bukkit.broadcastMessage(ChatColor.DARK_PURPLE + "BIXA" + ChatColor.RED + " DETECTADA! " + ChatColor.WHITE + "É A " + ChatColor.YELLOW + "Josi" + ChatColor.WHITE + "hahahahah");}
         else if (playerName.equalsIgnoreCase("GustavoRussas")) {
             Bukkit.broadcastMessage(ChatColor.GREEN + "Bem-Vindo" + ChatColor.YELLOW + ", de volta " + ChatColor.GREEN + "GUGUZINHO HAHAHA" + ChatColor.YELLOW + "!");}
+        else if (playerName.equalsIgnoreCase("Messias")) {
+            Bukkit.broadcastMessage(ChatColor.GREEN + "O" + ChatColor.RED + " ARROMBADO " + ChatColor.GREEN + "do" + ChatColor.BLUE + "Messias!" + ChatColor.YELLOW + "entrou");}
         else {
             // Envia uma mensagem personalizada a todos os jogadores
             for (Player player : Bukkit.getOnlinePlayers()) {
